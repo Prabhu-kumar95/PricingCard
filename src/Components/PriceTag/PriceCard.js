@@ -25,7 +25,7 @@ function PriceCard({data=[]}){
     
               </ul>
               <div className="d-grid">
-                <a href="#" className="btn btn-primary text-uppercase">Button</a>
+                <a  className="btn btn-primary text-uppercase">Button</a>
               </div>
             </div>
           </div>
